@@ -7,4 +7,9 @@
 */Intermediate
 */Saved
 *_BuiltData.uasset
-BuildingEscape/Content/StarterContent/
+BuildEscape/Content/StarterContent/
+
+#
+#VC Generated Files
+#
+*.VC.db
